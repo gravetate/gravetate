@@ -3,9 +3,6 @@
   <h1>Hi, I'm José Pedro Meireles Alves!</h1>
   <p>Software Developer</p>
 
-  <a href="https://github.com/gravetate">
-    <img src="https://img.shields.io/badge/GitHub-@gravetate-181717?style=flat&logo=github" alt="GitHub">
-  </a>
   <a href="https://www.linkedin.com/in/jos%C3%A9-pedro-meireles-alves-783a9994">
     <img src="https://img.shields.io/badge/LinkedIn-Meireles-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
