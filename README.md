@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Banner animado -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Typing animation" width="600px"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?color=CCC&type=waving&height=120&section=header"/>
   <h1>Olá, eu sou o José Pedro Meireles Alves! 👋</h1>
   <p>Desenvolvedor de Web Sites e Sistemas Embarcados</p>
 
@@ -69,3 +68,5 @@
 - 🐦 Twitter: [@imortaljose](https://x.com/imortaljose)  
 - 💼 LinkedIn: [José Pedro Meireles Alves](https://www.linkedin.com/in/jos%C3%A9-pedro-meireles-alves-783a9994)  
 - ✉️ Email: josepedro8@live.com.pt
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CCC&height=120&section=footer"/>
