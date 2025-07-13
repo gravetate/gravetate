@@ -3,7 +3,7 @@
   <p>Desenvolvedor de Web Sites e Sistemas Embarcados</p>
 
   <a href="https://github.com/gravetate">
-    <img src="https://img.shields.io/badge/GitHub-@josepedro8-181717?style=flat&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-@gravetate-181717?style=flat&logo=github" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/josé-pedro-meireles-alves-783a9994">
     <img src="https://img.shields.io/badge/LinkedIn-Zezoca-blue?style=flat&logo=linkedin" alt="LinkedIn">
