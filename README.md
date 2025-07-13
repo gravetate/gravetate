@@ -25,29 +25,32 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 Formação em **[Seu Curso]** pela **[Sua Universidade]**
-- 💼 Atualmente trabalhando como **[Sua função]** na **[Empresa]**
-- 🌱 Estudando **[Tecnologias/Assuntos atuais]**
-- 👯 Aberto a colaborar em projetos Open Source
-- 📫 Contato: teu.email@dominio.com
+- 🎓 Em formação em Engenharia informática pela UTAD
+- 💼 Atualmente trabalhando como bolseiro no projeto A-MoVeR – Agenda Mobilizadora para o Desenvolvimento de Produtos e Sistemas Inteligentes de Mobilidade Verde
+- 📫 Contato: josepedro8@live.com.pt
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES6-green?style=flat&logo=javascript&logoColor=yellow" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-TS-blue?style=flat&logo=typescript" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-17.0.2-lightblue?style=flat&logo=react" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-14.x-green?style=flat&logo=node.js" alt="Node.js">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/Docker-20.x-blue?style=flat&logo=docker" alt="Docker">
-  <!-- Novos badges adicionados abaixo -->
-  <img src="https://img.shields.io/badge/C%23-8.0-blue?style=flat&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/C%2B%2B-20-blue?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C-99-yellow?style=flat&logo=c&logoColor=black" alt="C">
-  <img src="https://img.shields.io/badge/MATLAB-R2025a-orange?style=flat&logo=mathworks&logoColor=white" alt="MATLAB">
-</div>
+<i>
+  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
+  <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
+  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+  <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+  <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
+  <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
+  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+</i>
+<br clear="both"/>
 
 ---
 
