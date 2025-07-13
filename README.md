@@ -1,11 +1,14 @@
 <div align="center">
-  <h1>Olá, eu sou o Zezoca! 👋</h1>
+  <!-- Banner animado -->
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Typing animation" width="600px"/>
+  <h1>Olá, eu sou o José Pedro Meireles Alves! 👋</h1>
   <p>Desenvolvedor de Web Sites e Sistemas Embarcados</p>
 
+  <!-- Badges -->
   <a href="https://github.com/gravetate">
     <img src="https://img.shields.io/badge/GitHub-@gravetate-181717?style=flat&logo=github" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/josé-pedro-meireles-alves-783a9994">
+  <a href="https://www.linkedin.com/in/jos%C3%A9-pedro-meireles-alves-783a9994">
     <img src="https://img.shields.io/badge/LinkedIn-Meireles-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:josepedro8@live.com.pt">
@@ -25,6 +28,12 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <i>
+  <!-- Spinner SVG animado -->
+  <svg align="left" width="30px" height="30px" viewBox="0 0 100 100" style="padding-right:10px;">
+    <circle cx="50" cy="50" r="40" stroke="#00d8ff" stroke-width="8" stroke-linecap="round">
+      <animateTransform attributeName="transform" type="rotate" dur="1s" repeatCount="indefinite" from="0 50 50" to="360 50 50"/>
+    </circle>
+  </svg>
   <img align="left" alt="Docker"    width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
   <img align="left" alt="MySQL"     width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img align="left" alt="Arduino"   width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
@@ -49,8 +58,8 @@
 ## 📊 Minhas estatísticas
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=josepedro8&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josepedro8&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=gravetate&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gravetate&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
