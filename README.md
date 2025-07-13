@@ -1,6 +1,8 @@
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?color=CCC&type=waving&height=120&section=header"/>
-  <h1>Olá, eu sou o José Pedro Meireles Alves! 👋</h1>
+  <h1>Olá, eu sou o José Pedro Meireles Alves! </h1>
+  ![Smiling Emoji](assets/smile.gif)
+
   <p>Desenvolvedor de Web Sites e Sistemas Embarcados</p>
 
   <!-- Badges -->
