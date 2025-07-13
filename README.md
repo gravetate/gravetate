@@ -42,7 +42,11 @@
   <img src="https://img.shields.io/badge/Node.js-14.x-green?style=flat&logo=node.js" alt="Node.js">
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/Docker-20.x-blue?style=flat&logo=docker" alt="Docker">
-  <!-- Adiciona mais logos conforme precisares -->
+  <!-- Novos badges adicionados abaixo -->
+  <img src="https://img.shields.io/badge/C%23-8.0-blue?style=flat&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/C%2B%2B-20-blue?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C-99-yellow?style=flat&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/MATLAB-R2025a-orange?style=flat&logo=mathworks&logoColor=white" alt="MATLAB">
 </div>
 
 ---
