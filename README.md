@@ -1,7 +1,7 @@
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?color=CCC&type=waving&height=120&section=header"/>
-  <h1>Olá, eu sou o José Pedro Meireles Alves!</h1>
-  <p>Desenvolvedor de Web Sites e Sistemas Embarcados</p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?color=CCC&type=waving&height=120&section=header"/>
+  <h1>Hi, I'm José Pedro Meireles Alves!</h1>
+  <p>Software Developer</p>
 
   <a href="https://github.com/gravetate">
     <img src="https://img.shields.io/badge/GitHub-@gravetate-181717?style=flat&logo=github" alt="GitHub">
@@ -16,17 +16,17 @@
 
 ---
 
-## Sobre mim
+## About Me
 
-- 🎓 Em formação em **Engenharia Informática** pela **UTAD**  
-- 💼 Bolseiro no projeto **A-MoVeR** (Agenda Mobilizadora para o Desenvolvimento de Produtos e Sistemas Inteligentes de Mobilidade Verde)  
+- 🎓 Currently pursuing a **Bachelor’s in Computer Engineering** at **UTAD**  
+- 💼 Research fellow on the **A-MoVeR** project (Mobilising Agenda for the Development of Intelligent Green Mobility Products and Systems)  
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
 <i>
-  <!-- Spinner SVG animado -->
+  <!-- Animated spinner -->
   <svg align="left" width="30px" height="30px" viewBox="0 0 100 100" style="padding-right:10px;">
     <circle cx="50" cy="50" r="40" stroke="#00d8ff" stroke-width="8" stroke-linecap="round">
       <animateTransform attributeName="transform" type="rotate" dur="1s" repeatCount="indefinite" from="0 50 50" to="360 50 50"/>
@@ -53,7 +53,7 @@
 
 ---
 
-## 📊 Minhas estatísticas
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=gravetate&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -62,10 +62,10 @@
 
 ---
 
-## 📫 Como me encontrar
+## 📫 Get in Touch
 
 -  Twitter: [@imortaljose](https://x.com/imortaljose)  
 -  LinkedIn: [José Pedro Meireles Alves](https://www.linkedin.com/in/jos%C3%A9-pedro-meireles-alves-783a9994)  
 -  Email: josepedro8@live.com.pt
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CCC&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=CCC&height=120&section=footer"/>
