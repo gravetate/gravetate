@@ -1,7 +1,7 @@
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?color=CCC&type=waving&height=120&section=header"/>
-  <h1>Olá, eu sou o José Pedro Meireles Alves! </h1>
-  <img align="left" alt="Emoji Sorrindo" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/assets/smile.gif"/>
+  <h1>Olá, eu sou o José Pedro Meireles Alves! <img src="assets/smile.gif" alt="Emoji Sorrindo" width="30px" style="vertical-align:middle;"/></h1>
+  <p>Desenvolvedor de Web Sites e Sistemas Embarcados</p>
 
   <p>Desenvolvedor de Web Sites e Sistemas Embarcados</p>
 
