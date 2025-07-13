@@ -3,7 +3,6 @@
   <h1>Olá, eu sou o José Pedro Meireles Alves!</h1>
   <p>Desenvolvedor de Web Sites e Sistemas Embarcados</p>
 
-  <!-- Badges -->
   <a href="https://github.com/gravetate">
     <img src="https://img.shields.io/badge/GitHub-@gravetate-181717?style=flat&logo=github" alt="GitHub">
   </a>
@@ -65,8 +64,8 @@
 
 ## 📫 Como me encontrar
 
-- 🐦 Twitter: [@imortaljose](https://x.com/imortaljose)  
-- 💼 LinkedIn: [José Pedro Meireles Alves](https://www.linkedin.com/in/jos%C3%A9-pedro-meireles-alves-783a9994)  
-- ✉️ Email: josepedro8@live.com.pt
+-  Twitter: [@imortaljose](https://x.com/imortaljose)  
+-  LinkedIn: [José Pedro Meireles Alves](https://www.linkedin.com/in/jos%C3%A9-pedro-meireles-alves-783a9994)  
+-  Email: josepedro8@live.com.pt
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CCC&height=120&section=footer"/>
